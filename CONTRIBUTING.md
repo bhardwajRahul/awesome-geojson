@@ -13,4 +13,10 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 
+## Specific guidance
+
+- No LLM-written pull requests.
+- No fully LLM-generated projects. Using LLMs is fine but if something looks excessively vibecoded, it is not an appropriate addition.
+- Contributions of datasets must have known provenance and licensing.
+
 Thank you for your suggestions!
